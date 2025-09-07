@@ -31,3 +31,61 @@ Before training your models, it's important to clean and prepare your data. In t
 * **data\_preprocessing\_tools.py**: A collection of useful functions to help clean and prepare the data for modeling.
 * **data\_preprocessing\_tools.ipynb**: A Jupyter notebook version for hands-on, interactive preprocessing.
 
+### 📉 **Regression Algorithms**
+
+For predicting continuous numerical values, these regression algorithms are your tools of choice:
+
+* **Decision Tree Regression**: Non-linear regression that models data with decision trees.
+* **Multiple Linear Regression**: A statistical approach to modeling the relationship between several features and a dependent variable.
+* **Polynomial Regression**: Extension of linear regression that fits the data to a polynomial curve.
+* **Random Forest Regression**: An ensemble method that combines multiple decision trees for better accuracy.
+* **Simple Linear Regression**: A basic yet effective model that captures the relationship between two variables.
+* **Support Vector Regression (SVR)**: Uses support vector machines for regression, suitable for high-dimensional datasets.
+
+---
+
+## 🛠 Getting Started
+
+### Prerequisites
+
+To get started with this repository, you'll need:
+
+* Python 3.7 or higher
+* Required dependencies (listed in `requirements.txt`)
+
+### 1️⃣ **Clone the Repo**
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/ml-algorithms.git
+cd ml-algorithms
+```
+
+### 2️⃣ **Install Dependencies**
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ **Data Preprocessing**
+
+Before you jump into training your models, you’ll need to preprocess your data:
+
+* Open `data_preprocessing_template.py` or the Jupyter notebook `data_preprocessing_tools.ipynb`.
+* Modify the script to clean your data, handle missing values, encode categorical variables, etc.
+
+### 4️⃣ **Train Your Model**
+
+Choose an algorithm from the **Classification** or **Regression** folders and run the corresponding Python script:
+
+```bash
+python classification/k_nearest_neighbors.py
+```
+
+* Follow the script's instructions to train and evaluate your model.
+
+---
+
