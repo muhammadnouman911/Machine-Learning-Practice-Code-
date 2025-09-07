@@ -128,9 +128,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Feel free to reach out if you have any questions or need help. You can also follow the repository for future updates and improvements!
 
-* [GitHub](https://github.com/yourusername/ml-algorithms)
-* [LinkedIn](https://www.linkedin.com/in/yourprofile)
-* [Email](mailto:youremail@example.com)
+* [GitHub](https://github.com/muhammadnouman911)
+* [LinkedIn](https://www.linkedin.com/in/muhammad-nouman-476187265/)
+* [Email](muhammadnoumanf22@gmail.com)
 
 ---
 
